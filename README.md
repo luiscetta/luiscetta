@@ -1,4 +1,4 @@
- <img align="center" alt="my name" width="380rem" src="https://media.giphy.com/media/VWOiEZw9xoLKlfO4f5/giphy.gif?cid=790b7611e5ce037b7ebd384543be0b9f3b78ac1484714e1e&rid=giphy.gif&ct=g">
+ <h2>Hello! I'm Luis Filipe Cetta</h2>
  
   ##
 
